@@ -44,6 +44,7 @@
 
 5. **결과 출력**
     - 각 텍스트에 대한 실제 레이블, 모델 예측값, 스팸으로 분류될 확률을 출력
+    - ![결과](https://github.com/lsmlub99/VoicePhishing-prediction/assets/44607185/a84ebdfd-137c-4fac-b089-5b3e6fa293ec)
 
 ## 사용된 기술 스택
 
